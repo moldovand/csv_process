@@ -1,0 +1,29 @@
+TestName;TestDateTime;TestId;ErrorCode;ProcedureId;ProcedureName;UserResponse;Response Code;ElapsedTime;ErrorText;Response Text;UserName;JanusMachineName
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;44;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/20/2021 5:16:12 PM;161;34;1;Initial User Query;1;1;70;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;7/22/2021 10:51:05 PM;1360;34;1;Initial User Query;1;1;15;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;06/04/2021 20:39;482;34;1;Initial User Query;3;3;41;Please remove disposable tips.    ;Abort;Janus;JANUS-17253
+sample pooling 100ul.pro;7/22/2021 10:51:05 PM;1360;34;1;Initial User Query;1;1;52;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;76;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;67;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;48;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;43;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/26/2021 12:18:14 PM;251;34;1;Initial User Query;1;1;66;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/21/2021 7:10:11 PM;197;34;1;Initial User Query;1;1;23;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 200ul.pro;5/20/2021 7:48:20 PM;168;34;1;Initial User Query;1;1;80;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/20/2021 5:16:12 PM;161;34;1;Initial User Query;1;1;36;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;5/20/2021 5:16:12 PM;161;34;1;Initial User Query;1;1;38;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;06/04/2021 20:40;483;34;1;Initial User Query;1;1;80;Please remove disposable tips.    ;OK;Janus;JANUS-17253
+sample pooling 100ul.pro;7/16/2021 5:09:32 PM;1271;55;12;Transfer Samples_1;4;4;658;Error encountered resetting liquid  level sense.    ;Retry;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2336;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2354;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2336;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;1408;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;1390;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;1390;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
+False Sense 8 tip long.pro;04/09/2021 11:46;21;65;5;False Sense Loop;1;1;2336;Requested blowout could not be done.    ;OK;Janus;JANUS-17253
